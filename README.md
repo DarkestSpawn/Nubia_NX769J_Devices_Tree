@@ -1,1 +1,1 @@
-Nubia_NX769J_Devices_Tree
+#Nubia_NX769J_Devices_Tree
