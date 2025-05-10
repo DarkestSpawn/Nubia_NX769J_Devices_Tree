@@ -5,6 +5,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_NX769J.mk
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/twrp_NX769J.mk
 
-COMMON_LUNCH_CHOICES := twrp_NX769J
+COMMON_LUNCH_CHOICES := \
+    twrp_NX769J-eng
