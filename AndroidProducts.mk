@@ -9,4 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_NX769J.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_NX769J-ap2a-eng
+    twrp_NX769J-eng
